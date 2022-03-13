@@ -13,7 +13,7 @@
 
 
 <h3 align="left">Key Courses :  Design and Analysis of Algorithm </h3> 
-<h3 align="left"><\t> <\t>                 Computer Organisation and Architecture  </h3> 
+<h3 align="left"><t> <t>                 Computer Organisation and Architecture  </h3> 
 <h3 align="left">                 Computer Network  </h3> 
 <h3 align="left">                Operating System  </h3> 
 <h3 align="left">Connect with me:</h3>
