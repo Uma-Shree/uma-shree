@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uma Shree</h1>
-<h3 align="center">A undergraduate student with skills - Android developer , Full Stack developer from India</h3>
+<h3 align="center">A undergraduate student with skills - Android developer , Full Stack developer </h3>
 
 - 🔭 I’m currently working on **Music App in Kotlin language**
 
