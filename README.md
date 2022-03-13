@@ -11,6 +11,11 @@
 
 - 📫 How to reach me **umashree31jan@gmail.com**
 
+
+<h3 align="left">Key Courses :  Design and Analysis of Algorithm </h3> 
+<h3 align="left">                 Computer Organisation and Architecture  </h3> 
+<h3 align="left">                 Computer Network  </h3> 
+<h3 align="left">                Operating System  </h3> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/uma shree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uma shree" height="30" width="40" /></a>
