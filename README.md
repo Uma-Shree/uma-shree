@@ -3,13 +3,13 @@
 <br>
 <br>
 
--am an **interested DSA problem solver** 
+
 
 
 - 🌱 I’m currently learning **Artificial Intelligence , Soft Computing , Internet of Things**
 
 - 💬 Ask me about **CSS, JAVASCRIPT , MYSQL ,PHP , Data Structure , Algorithm , Search Techniques**
-- 
+
 -  🔭 I’m currently working on **Music App in Kotlin language**
 
 - 📫 How to reach me **umashree31jan@gmail.com**
