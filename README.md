@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Uma Shree</h1>
-<h3 align="center">A undergraduate student with skills - Android developer , Full Stack developer </h3>
+<h3 align="center">A third year undergraduate student<br> who believe that <br/> can make this world better for tomorrow with ARTIFICIAL INTELLIGENCE </h3>
 
-- 🔭 I’m currently working on **Music App in Kotlin language**
+
 
 - 🌱 I’m currently learning **Artificial Intelligence , Soft Computing , Internet of Things**
 
 - 💬 Ask me about **CSS, JAVASCRIPT , MYSQL ,PHP**
+- 
+- - 🔭 I’m currently working on **Music App in Kotlin language**
 
 - 📫 How to reach me **umashree31jan@gmail.com**
 
