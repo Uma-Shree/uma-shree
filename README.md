@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Uma Shree</h1>
-<h3 align="center">A third year undergraduate student<br> who believe that <br/> can make this world better for tomorrow with ARTIFICIAL INTELLIGENCE </h3>
+<h3 align="center">A third year undergraduate student<br> who believes ,  <br/> can make this world better for future with ARTIFICIAL INTELLIGENCE </h3>
 <br>
 <br>
 
