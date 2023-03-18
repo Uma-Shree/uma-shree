@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Uma Shree</h1>
-<h3 align="center">A third year undergraduate student<br> who believes ,  <br/> can make this world better for future with ARTIFICIAL INTELLIGENCE </h3>
+<h3 align="center">A Final year undergraduate student<br> who believes ,  <br/> can make this world better for future with ARTIFICIAL INTELLIGENCE </h3>
 <br>
 <br>
 
@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning **Artificial Intelligence , Soft Computing , Internet of Things**
 
 - 💬 Ask me about **CSS, JAVASCRIPT , MYSQL ,PHP , Data Structure , Algorithm , Search Techniques**
-
--  🔭 I’m currently working on **Music App in Kotlin language**
 
 - 📫 How to reach me **umashree31jan@gmail.com**
 
